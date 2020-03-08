@@ -1,1 +1,10 @@
-{}
+{
+	"auth": {
+		"bookappb28b9118": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": [],
+			"customAuth": false
+		}
+	}
+}

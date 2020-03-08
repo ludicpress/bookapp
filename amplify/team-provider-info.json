@@ -10,6 +10,11 @@
             "StackName": "amplify-bookapp-dev-144630",
             "StackId": "arn:aws:cloudformation:us-east-2:784180249620:stack/amplify-bookapp-dev-144630/215d8cd0-616d-11ea-9a20-063c30684966",
             "AmplifyAppId": "d3qvrs5fr85a1r"
+        },
+        "categories": {
+            "auth": {
+                "bookappb28b9118": {}
+            }
         }
     }
 }
